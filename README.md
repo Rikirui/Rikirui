@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rikirui
-- 👀 I’m interested in Javascropt
+- 👀 I’m interested in Javascript
 - 🌱 I’m currently learning nothing
 - 💞️ I’m looking to collaborate on product
 - 📫 How to reach me rikirui@outlook.com
