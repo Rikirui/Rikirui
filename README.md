@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rikirui
-- 👀 I’m interested in Javascript
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on product
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning machine learning, Python and something about AI.
+- 💞️ I’m looking to be an AI product manager.
 - 📫 How to reach me rikirui@outlook.com
 
 <!---
